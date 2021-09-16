@@ -16,4 +16,6 @@ Couleurs de l'application :
 Technologies web :
 	- Servlet & JSP
 	- Wicket
-	- Struts2
+	- Struts2
+	- JSF
+
