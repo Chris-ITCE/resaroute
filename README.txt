@@ -11,3 +11,6 @@ Les tâches techniques à effectuer sont dans le fichier TODO.txt
 Modification depuis GitHub directement
 
 Moi aussi je peux faire une modification depuis mon depot local
+
+Nouvelle modification concurrente depuis GitHub pour de nouvelles informations
+
